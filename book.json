@@ -1,0 +1,16 @@
+{
+    "root": "./docs",
+    "title": "Lectures",
+    "author": "Incore",
+    "description": "My gitbook",
+    "plugins": [
+            "folding-chapters-2",
+            "theme-code",
+            "-sharing"
+    ],
+    "pluginsConfig": {
+            "theme-default": {
+                    "showLevel": false
+            }
+    }
+}
